@@ -1,0 +1,2 @@
+data_dir	sample
+/lab/solexa_scratch/SunnyDas/cellranger/L21_765/filtered_feature_bc_matrix/	Day35

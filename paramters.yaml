@@ -1,0 +1,26 @@
+workingdir: /home/sgupta/RClass/ESR1-Analysis/
+Input: samplelist4.txt
+Condition:
+ - Day1
+ - Day35
+ - Primary
+ - Invitro
+ - Control
+params:
+ Day1:
+  nCount_RNA: 1000
+  nFeature_RNA: 600
+  percent.mt: 20
+ Day35:
+  nCount_RNA: 600
+  nFeature_RNA: 400
+  percent.mt: 20
+  max_nCount_RNA: 100000
+ Primary:
+  nCount_RNA: 400
+  nFeature_RNA: 300
+  percent.mt: 20
+ Default:
+  nCount_RNA: 500
+  nFeature_RNA: 500
+  percent.mt: 20

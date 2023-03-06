@@ -1,0 +1,2 @@
+data_dir	sample
+/lab/cellranger/filtered_feature_bc_matrix/	Day35
